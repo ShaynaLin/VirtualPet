@@ -1,12 +1,12 @@
 void setup(){
   //some of your code here
-  size (100,100);
+  size(110,110);
   background(173,216,230);
   fill (255,255,255);
-  ellipse(35,60,10,10); //left arm
-  ellipse(65,60,10,10); //right arm
-  fill (255,127,0);
-  triangle(50,30,30,80,70,80); //shirt
+   ellipse(35,60,10,10); //right arm
+   ellipse(65,60,10,10); //right arm
+    fill (255,127,0);
+  triangle(50,30,30,80,70,80);
 }
 void draw(){
   //more of your code here
