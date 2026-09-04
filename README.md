@@ -484,6 +484,8 @@ Samples of Student Work
 [Clovis](https://clovisz.github.io/VirtualPet/?authuser=0)        
 [Enoch](https://deplep.github.io/VirtualPet/?authuser=0)        
 [Xinhong](https://cloudtronusa.github.io/APCS-VirtualPet/?authuser=0)        
+[Shayna](https://drive.google.com/file/d/1kvDTY7sctlubqGF4f39wNuTl04_PSDLC/view)
+
 
 
 
